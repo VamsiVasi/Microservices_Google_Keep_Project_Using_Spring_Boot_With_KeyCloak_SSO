@@ -118,7 +118,7 @@ Step 2 : Enter the **_Role Name_** and Click on **_Save_**
 
 ![image-023](https://user-images.githubusercontent.com/90391735/160674568-d62a79fc-f5c6-45dd-9d2e-140c9141b4e5.png)
 
-# _Assign Roles TO Users_
+# _Assign Roles To Users_
 
 Step 1 : Open the user of what you have created before and click on **_Role Mappings_**
 
