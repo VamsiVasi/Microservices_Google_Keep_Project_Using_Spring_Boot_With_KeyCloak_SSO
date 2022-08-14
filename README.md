@@ -15,4 +15,4 @@ _**Microservices Google Keep Spring Boot Project Using MongoDB With KeyCloak SSO
 * Crud Operations with [MultipartFile](https://www.baeldung.com/spring-file-upload)
 * Exception Handling
 * [WebClient](https://www.baeldung.com/spring-5-webclient) for Microservices Communication
-* [KeyCloak](https://github.com/VamsiVasi/Microservices_Google_Keep_Project_Using_Spring_Boot_With_KeyCloak_SSO/blob/main/KeyCloak.md) for Single sign-on(SSO)
+* [KeyCloak](https://www.baeldung.com/spring-boot-keycloak) for Single sign-on(SSO)
